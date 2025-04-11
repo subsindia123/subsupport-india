@@ -1,2 +1,3 @@
-# subsupport-india
-Support and subscribe to creators - SubSupport India App"
+# SubSupport India
+
+An app to support and subscribe to content creators.
